@@ -4,11 +4,12 @@ Este proyecto cuenta con un frontend desarrollado con React, que proporciona una
 
 # Backend
 Requisitos: 
-- python 3.11 
+- Python 3.11.5
 - Flask 3.0 
-- flask-cors 4.0 
-- nltk 3.8.1
+- Flask-cors 4.0 
+- Nltk 3.8.1
 
+(Se necesita tener instalado python https://www.python.org/downloads/release/python-3115/)
 Para instalar estos requisitos usar: 
 pip install Flask flask-cors nltk
 
